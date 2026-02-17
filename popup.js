@@ -1,5 +1,5 @@
 
-const GEMINI_API_KEY = "AIzaSyDG_cGu8hqqWSo3qV71Y66zEr8csJihQkI"; // Get this from Google AI Studio
+const GEMINI_API_KEY = ""; // Get this from Google AI Studio
 const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent";
 
 document.addEventListener('DOMContentLoaded', async () => {
